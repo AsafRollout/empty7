@@ -3,4 +3,6 @@ type: experiment
 enabled: false
 flag: flag
 availableValues:
+  - 1
   - 2
+  - 4
