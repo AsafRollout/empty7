@@ -5,3 +5,8 @@ flag: testVariation
 availableValues:
   - ''
   - bla bla
+value:
+  - percentage: 1
+    option: ''
+  - percentage: 99
+    option: bla bla
