@@ -5,4 +5,8 @@ flag: testVariation4
 availableValues:
   - b2 b3
   - qq qk
-value: b2 b3
+value:
+  - percentage: 50
+    option: b2 b3
+  - percentage: 50
+    option: qq qk
