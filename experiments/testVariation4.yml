@@ -3,7 +3,6 @@ type: experiment
 labels: backward-compatible-configuration
 flag: testVariation4
 availableValues:
-  - ''
-  - qq qk
   - b2 b3
+  - qq qk
 value: b2 b3
