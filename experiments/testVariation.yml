@@ -5,4 +5,8 @@ flag: testVariation
 availableValues:
   - bla bla
   - '123'
-value: bla bla
+value:
+  - percentage: 50
+    option: bla bla
+  - percentage: 50
+    option: '123'
