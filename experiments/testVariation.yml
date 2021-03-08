@@ -4,6 +4,5 @@ labels: backward-compatible-configuration
 flag: testVariation
 availableValues:
   - bla bla
-  - ''
   - '123'
 value: bla bla
