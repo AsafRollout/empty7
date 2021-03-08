@@ -6,7 +6,7 @@ availableValues:
   - bla bla
   - '123'
 value:
-  - percentage: 32
+  - percentage: 31
     option: bla bla
-  - percentage: 68
+  - percentage: 69
     option: '123'
